@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+form{
+    border: 2px solid red;
+    width: 500px;
+    padding: 3px 25px 30px;
+    margin: 20px auto;
+    border-radius: 10px;
+background-color: lightblue;
+}
+input{
+    width: 95%;
+    border-radius: 20px;
+    height: 35px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
+    background-color: lightgray;
+    padding: 5px;
+}
+button{
+    width: 100%;
+    margin: 10px auto;
+    border-radius: 20px;
+    background-color: blue;
+    height: 30px;
+}
+h1{
+    text-align: center;
+    margin: 3px 10px 30px;
+}
+
