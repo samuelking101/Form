@@ -9,7 +9,7 @@ form{
     padding: 3px 25px 30px;
     margin: 20px auto;
     border-radius: 10px;
-background-color: lightblue;
+background-color: white;
 }
 input{
     width: 95%;
@@ -32,4 +32,6 @@ h1{
     text-align: center;
     margin: 3px 10px 30px;
 }
-
+body{
+    background-color: black;
+}
